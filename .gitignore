@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb
+chatbot.db*
+myenv/
+.ipynb_checkpoints/
+
